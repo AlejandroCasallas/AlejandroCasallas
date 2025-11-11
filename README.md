@@ -1,21 +1,17 @@
 # 💫 About Me:
-I'm an 18-year-old Full Stack developer with a strong interest in DevOps. My goal is to become a true full stack — someone who masters all areas of development, from frontend to backend, DevOps, automation, and beyond. I'm not there yet, but I will be.
+I'm a backend and full stack developer passionate about bringing robust solutions to life. I combine strong backend skills (APIs, databases, business logic) with frontend expertise and solid DevOps knowledge. My goal is to master every step of the development lifecycle — from designing scalable server architectures to automating deployments and delivering great user experiences.
 
-🔭 I’m currently working on:  
-An e-commerce system with an admin dashboard, role management, product scanner, and report generation.
+🤝 I’m looking to collaborate on:
+Complex backend projects, scalable API platforms, DevOps automation, cloud infrastructure, and full stack apps that solve real problems.
 
-🤝 I’m looking to collaborate on:  
-Automation projects, DevOps pipelines, or innovative cloud-based ideas.
+🧠 I’m currently learning:
+Advanced container orchestration (Kubernetes), microservices architecture, CI/CD best practices, and cloud-native development.
 
-🧠 I’m currently learning:  
-Docker, CI/CD, GitHub Actions, and scalable cloud architecture with Kubernetes.
+💬 Ask me about:
+Node.js, Laravel, Docker, RESTful APIs, serverless backends, reverse proxies, authentication and security, infrastructure as code, and debugging hard bugs — with fun tips on how not to panic.
 
-💬 Ask me about:  
-Laravel, React, Node.js, role-based access control, PDF generation, XAMPP, and how to survive bugs 😅
-
-⚡ Fun fact:  
-Sometimes I code while listening to vallenato (music from my country) like I'm hacking NASA 🚀
-
+⚡ Fun fact:
+I love pairing backend logic with music, and sometimes deploy big updates while dancing to salsa or electronic beats!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/peyux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andriely_cslls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriely-alejandro-casallas-calderon-a87253277) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/f8ckubithc) [![YouTube
